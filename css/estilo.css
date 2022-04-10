@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+html,body{
+	height: 100%;
+}
+
+.artigo{
+
+	width: 100%;
+	height: auto;
+	text-align: center;
+	background-color: powderblue;
+	
+
+}
+
+.artigo h1{
+
+	color: mediumvioletred;
+	font-size: 50px;
+	font-family: "bleeding cowboys";
+	font-style: normal;
+	font-weight: normal;
+}
+
+.artigo p{
+
+	color: darkturquoise ;
+	font-size: 17px;
+	font-family: "tahoma";
+	font-style: normal;
+	font-weight: bold;
+	line-height: 30px;
+	margin-top: 12px;
+}
